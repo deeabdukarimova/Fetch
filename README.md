@@ -16,8 +16,8 @@ the csv version of the data files that need to be used when running answers for 
 -Which brand has the most spend among users who were created within the past 6 months?
 -Which brand has the most transactions among users who were created within the past 6 months?
 
-    3.Data issue analysis. Please use 'data_issue_analysis.py' file for the script written to find missing values
+  3.Data issue analysis. Please use 'data_issue_analysis.py' file for the script written to find missing values
 columns and duplicate records issue.
   
-    4.Communication with Stakeholders. Please use 'Fetch Rewards Analysis Update.txt' file to access the email 
+  4.Communication with Stakeholders. Please use 'Fetch Rewards Analysis Update.txt' file to access the email 
  to stakeholders on the analysis updates, questions/concerns and further steps. 
