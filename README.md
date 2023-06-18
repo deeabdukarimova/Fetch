@@ -19,5 +19,5 @@ the csv version of the data files that need to be used when running answers for 
   3.Data issue analysis. Please use 'data_issue_analysis.py' file for the script written to find missing values
 columns and duplicate records issue.
   
-  4.Communication with Stakeholders. Please use 'Fetch Rewards Analysis Update.txt' file to access the email 
+  4.Communication with Stakeholders. Please use 'Fetch Rewards Analysis Update Email.pdf' file to access the email 
  to stakeholders on the analysis updates, questions/concerns and further steps. 
